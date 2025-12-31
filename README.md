@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://avatars.githubusercontent.com/u/7642181?s=280&v=4" width="200" alt="StarUML macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/StarUML">
+ <a href="https://gnomik-gomik-apps.github.io/.github/StarUML">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open StarUML macOS page">
  </a><br><br>
  <div align="center">
